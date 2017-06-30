@@ -1,0 +1,158 @@
+
+nav {
+    margin-top: 25px;
+    background-color: SaddleBrown;
+}
+
+.navButtons {
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	
+}
+
+.media {
+	padding: 20px;
+}
+
+.media-body {
+	width: 800px;
+	border: 2px solid black;
+	padding: 20px;
+	
+	
+	
+}
+
+.media-left, .media-body h3 {
+	
+}
+
+.media-left img {
+	width: 500px;
+	border: 2px solid black;
+}
+
+.logo img{
+	width: 600px;
+}
+
+.parksHome {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 35px;
+	border-bottom: 2px solid black;
+}
+
+.body {
+background-color: BurlyWood;
+
+}
+
+.forecastHead {
+	text-align: center;
+}
+
+.forecastTable, th, tr, td {
+	border: 2px solid black;
+	padding: 5px;
+}
+
+.forecastTable, th {
+	text-align: center;
+	font-size: 12pt;
+
+}
+
+.forecastTable th {
+	width: 300px;
+	background-color: OliveDrab;
+}
+
+.forecastTable td {
+	background-color: white;
+}
+
+.fiveDay {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.day {
+}
+
+.fiveDay img {
+	width: 100px;
+}
+
+.advisory {
+	
+	
+}
+
+.surveySubmit {
+	text-align: center;
+}
+
+.errors {
+	color:red;
+}
+
+.copyright {
+	
+	text-align: center;
+	
+}
+.surveyResultsMain {
+	padding-left: 20px;
+	
+}
+
+.surveyResults tr {
+	border: 2px solid black;
+
+}
+
+.surveyResults {
+	background-color: white;
+}
+
+.surveyResults th {
+	background-color: OliveDrab;
+}
+
+.surveyResults th {
+	text-align: center;
+	padding: 5px;
+	border: 2px solid black;
+	
+}
+
+.surveyParkName {
+	width: 275px;
+}
+
+.surveyParkVotes {
+	width: 150px;
+}
+
+.surveyResults td {
+	padding: 5px;
+	border: 2px solid black;
+}
+
+.surveyVote {
+	text-align: center;
+}
+
+.surveyCompleted {
+	text-align: center;
+}
+
+.surveyForm {
+	padding-left: 20px;
+}
